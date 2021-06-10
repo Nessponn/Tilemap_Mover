@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/TilemapMover_master/TileDatas/Scenes/TileMap_Mover.unity
+- path: Assets/TilemapMover_master/Example/Scene/Sample_TilemapMover.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
